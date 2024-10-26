@@ -1,0 +1,42 @@
+h1{
+    text-align: center;
+}
+li {
+    list-style-type: none;
+    max-width: 200px;
+    padding: 8px;
+    margin: 8px auto;
+    border: 1px dotted;
+    background: #eee;
+    border: 1px dotted #ddd;
+
+}
+/* button{
+    max-width: 200px;
+    padding: 8px;
+    margin-left: 730px;
+    margin-top: 10px;
+    background: #c56c6c;
+    border: 1px dotted #ddd;
+} */
+#data{
+    max-width: 200px;
+    padding: 8px;
+    margin-left: 670px;
+    margin-top: 10px;
+    align-items: center;
+}
+.TaskAdder > input:nth-child(3){
+    max-width: 200px;
+    padding: 8px;
+    margin-left: 700px;
+    margin-top: 10px; 
+    background: #c56c6c;
+    border: 1px dotted #ddd;
+    align-items: center;
+}
+small{
+    color: crimson;
+    padding: 31px  ;
+    cursor: pointer;
+}
